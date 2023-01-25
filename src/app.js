@@ -4,7 +4,7 @@ const express = require("express");
 const path = require("path");
 
 const homeRoute = require("./routes/homeRoute");
-
+const detalheMenuRoute = require("./routes/detalheMenuRoute");
 
 
 
@@ -28,7 +28,7 @@ app.use(express.static(path.resolve("src", "public")));
 
 //===ROTAS===
 app.use(homeRoute);
-
+app.use(detalheMenuRoute);
 
 
 

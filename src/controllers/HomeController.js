@@ -9,7 +9,8 @@ const HomeController = {
 
     menu.map(cardapio=>{
       menuMapeado.push({
-        id: cardapio.name,
+        id: cardapio.id,
+        name: cardapio.name,
         description: cardapio.description,
         price: `U$S ${cardapio.price.toLocaleString("pt-BR",{currency:"BRL", minimumFractionDigits:2})}`
       });

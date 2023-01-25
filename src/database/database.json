@@ -4,25 +4,29 @@
       "id": 1,
       "name": "Carpaccio fresco",
       "description": "Entrada Carpaccio de salmão com cítricos",
-      "price": 65.50
+      "price": 65.50,
+      "image": "/images/carpaccio-de-salmao.jpg"
     },
     {
       "id": 2,
       "name": "Risotto de berinjela",
       "description": "Risotto de berinjela e queijo de cabra",
-      "price": 47
+      "price": 47,
+      "image": "/images/risotto-berinjela-queijo-cabra.jpg"
     },
     {
       "id": 3,
       "name": "Mousse de arroz",
       "description": "Mousse de arroz com leite e aroma de flor de laranjeira",
-      "price": 27.50
+      "price": 27.50,
+      "image": "/images/mousse-de-arroz-con-leite.jpg"
     },
     {
       "id": 4,
       "name": "Aspargos brancos",
       "description": "Aspargos brancos com vinagrete de legumes e presunto ibérico",
-      "price": 37.50
+      "price": 37.50,
+      "image": "/images/aspargos.png"
     }
   ]
 }

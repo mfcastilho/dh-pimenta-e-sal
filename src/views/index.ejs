@@ -78,11 +78,16 @@
 
           <% menu.forEach(cardapio=>{ %>
 
+            
             <br />
-            <h4><%= cardapio.name %></h4>
+            <a class="link-cardapio" href="/detalhe/<%= cardapio.id %>">
+              <h4><%= cardapio.name %></h4>
+            </a>  
             <p class="ps-text-grey">
               <%= cardapio.description %> <%= cardapio.price %>
             </p>
+
+            
             <br />
 
           <% }); %> 
