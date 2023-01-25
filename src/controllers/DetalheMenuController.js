@@ -7,7 +7,6 @@ const DetalheMenuController = {
     const menuMapeado = [];
 
     const {id} = req.params;
-    console.log(id);
     const cardapio = menu.find(cardapio=>cardapio.id == id);
 
     const cardapioMapeado = {
