@@ -1,7 +1,7 @@
 <h1 align="center">DH PIMENTA E SAL </h1>
 
-# Vistas Dinâmicas EJS 
-## Prática integradora 
+
+## Prática integradora - Vistas Dinâmicas EJS 
 ### Objetivo 
 <div>
 A empresa do ramo gastronômico Pimenta & Sal nos contrata para modificar o seu site corporativo, que atualmente possui informações estáticas, para uma versão dinâmica, já que nos próximos meses mudará seu cardápio e passará a oferecer um cardápio fixo. 
