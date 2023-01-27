@@ -10,29 +10,28 @@ Bom trabalho!
 </div>
 
 ### Micro desafio - Passo 1 
-<div>
-Devemos gerar um projeto com express-generator. O desenvolvimento deve ser baseado em 
-EJS como um template engine. Da mesma forma, pretende-se que as views sejam construídas 
-em um sistema de arquivos parciais. Ou seja, se todas as seções usam o mesmo trecho de 
+
+- [X] Devemos gerar um projeto com express-generator. 
+- O desenvolvimento deve ser baseado em EJS como um template engine. 
+- Da mesma forma, pretende-se que as views sejam construídas em um sistema de arquivos parciais. Ou seja, se todas as seções usam o mesmo trecho de 
 código, esse trecho deve ser um arquivo parcial que podemos incluir posteriormente. 
-<br>
-• Transforme a seção do menu para exibir o nome do prato, a descrição e o preço de 
+- Transforme a seção do menu para exibir o nome do prato, a descrição e o preço de 
 forma dinâmica. 
-</div>
+
 <br>
 
 
 
 ### Micro desafio - Passo 2 
 
-<div>
-• Devemos adicionar a seguinte rota no site para que cada prato do menu inicial nos permita ver o prato correspondente com mais detalhes. 
-• /detalhe/id 
-A view detalhada irá mostrar, de acordo com o id do menu, o nome do prato, a descrição, uma imagem e o preço associado a ela. 
-• Caso o prato não tenha uma descrição detalhada, devemos mostrar a caption "Prato 
+
+- [X] Devemos adicionar a seguinte rota no site para que cada prato do menu inicial nos permita ver o prato correspondente com mais detalhes. 
+- /detalhe/id 
+- A view detalhada irá mostrar, de acordo com o id do menu, o nome do prato, a descrição, uma imagem e o preço associado a ela. 
+- Caso o prato não tenha uma descrição detalhada, devemos mostrar a caption "Prato 
 típico". 
 
-</div>
+
 
 ### Bonus-Track 
 
